@@ -45,6 +45,7 @@ jobs:
             pytest
           else
             echo "No tests found, skipping tests."
+          fi
 
   deploy:
     name: Deploy & Push to Docker Hub
