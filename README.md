@@ -1,4 +1,4 @@
-#By Drew Daffern
+By Drew Daffern (djd0217)
 # CICD-assignment
 
 This repository is a sample Python project designed to demonstrate the implementation of Continuous Integration and Continuous Delivery (CI/CD) pipelines. It is intended as an assignment for exploring automated testing, build processes, and deployment strategies.
